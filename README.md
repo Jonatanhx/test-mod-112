@@ -1,1 +1,1 @@
-Mod 1
+To run the mod, drag the output.jar file into the mods directory in a forge 1.12.2 profile
