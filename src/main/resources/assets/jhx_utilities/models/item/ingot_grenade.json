@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jhx_utilities:items/ingot_grenade"
+  }
+}
