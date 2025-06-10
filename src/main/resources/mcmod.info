@@ -1,7 +1,7 @@
 [
 	{
-		"modid": "mymod",
-		"name": "my112mod",
+		"modid": "jhx_utilities",
+		"name": "Jhx utilities",
 		"description": "My first minecraft mod in 1.12, learning Java",
 		"version": "${version}",
 		"mcversion": "1.12.2",

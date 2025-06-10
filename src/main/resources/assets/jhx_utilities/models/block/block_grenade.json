@@ -1,0 +1,6 @@
+ {
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jhx_utilities:blocks/block_grenade"
+  }
+}

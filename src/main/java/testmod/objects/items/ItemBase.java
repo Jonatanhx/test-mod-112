@@ -19,6 +19,6 @@ public class ItemBase extends Item implements IHasModel
     setRegistryName(name);
     setCreativeTab(CreativeTabs.MATERIALS);
 
-        ItemInit.ITEMS.add(this);
+    ItemInit.ITEMS.add(this);
     }
 }
